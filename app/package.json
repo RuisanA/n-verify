@@ -17,8 +17,7 @@
     "path": "^0.12.7",
     "node-cron": "^3.0.3",
     "keyv": "^4.5.4",
-    "@keyv/sqlite": "^3.6.7",
-    "express": "^4.19.2"
+    "@keyv/sqlite": "^3.6.7"
   },
   "engines": {
     "node": "16.x"
